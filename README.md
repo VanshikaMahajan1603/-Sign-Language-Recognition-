@@ -40,3 +40,5 @@ The project demonstrates effective use of open-source tools (TensorFlow, Keras, 
 
 It offers a practical implementation of Human-Computer Interaction (HCI) for accessibility, with potential to enhance communication in healthcare, education, and customer service for differently-abled individuals.
 
+**Dataset Used**:
+https://www.kaggle.com/datasets/ahmedkhanak1995/sign-language-gesture-images-dataset
